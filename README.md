@@ -1,5 +1,7 @@
 # JSON Indenter Pro - Open Source Edition
 
+> **Live Demo:** [https://jsonindenter.com/](https://jsonindenter.com/)
+
 A professional, secure, and feature-rich JSON formatting, validation, and conversion tool. Built with React + TypeScript, running entirely in your browser with zero data transmission.
 
 ## ✨ Features
@@ -18,6 +20,8 @@ A professional, secure, and feature-rich JSON formatting, validation, and conver
 - **100% Client-Side** - All processing happens locally, your data never leaves your browser
 - **No Registration** - Use immediately without creating an account
 - **Open Source** - MIT Licensed, community-driven development
+
+> 🌐 **Try it now:** [https://jsonindenter.com/](https://jsonindenter.com/) - No installation required!
 
 ## 🚀 Quick Start
 
@@ -46,6 +50,8 @@ npm run preview
 ```
 
 The application will be available at `http://localhost:5173`
+
+> **Production Site:** [https://jsonindenter.com/](https://jsonindenter.com/)
 
 ## 📚 Tech Stack
 
@@ -99,10 +105,10 @@ This project uses [shadcn/ui](https://ui.shadcn.com/) for consistent, accessible
 
 ## 📖 Documentation
 
-- [Contributing Guide](./docs/CONTRIBUTING.md)
-- [Code of Conduct](./docs/CODE_OF_CONDUCT.md)
-- [Security Policy](./docs/SECURITY.md)
-- [Project Structure Guide](./docs/PROJECT_STRUCTURE.md)
+- [Contributing Guide](./.github/CONTRIBUTING.md)
+- [Code of Conduct](./.github/CODE_OF_CONDUCT.md)
+- [Security Policy](./.github/SECURITY.md)
+- [Roadmap](./.github/ROADMAP.md)
 
 ## 🤝 Contributing
 
@@ -146,14 +152,17 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 📞 Support
 
 For questions or support:
+- **Live Application:** [https://jsonindenter.com/](https://jsonindenter.com/)
 - Open an issue on GitHub
 - Email: support@jsonindenter.com
 - Check existing issues for solutions
 
 ## 🗺️ Roadmap
 
-See [ROADMAP.md](./docs/ROADMAP.md) for planned features and improvements.
+See [ROADMAP.md](./.github/ROADMAP.md) for planned features and improvements.
 
 ---
 
 **Made with ❤️ by the JSON Indenter community**
+
+🔗 [https://jsonindenter.com/](https://jsonindenter.com/) | [GitHub](https://github.com/tahmidh/jsonindenter) | [Report Issues](https://github.com/tahmidh/jsonindenter/issues)

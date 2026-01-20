@@ -29,7 +29,7 @@ const JsonStructureGuide = React.lazy(() => import('./pages/resources/JsonStruct
 const BlogIndex = React.lazy(() => import('./pages/resources/BlogIndex').then(m => ({ default: m.BlogIndex })));
 const BlogPost = React.lazy(() => import('./pages/resources/BlogPost').then(m => ({ default: m.BlogPost })));
 
-const GA_MEASUREMENT_ID = 'G-58HK3N72XD';
+const GA_MEASUREMENT_ID = 'G-XXXXXXXXXX'; // Replace with your Google Analytics Measurement ID
 ReactGA.initialize(GA_MEASUREMENT_ID);
 
 // Loading fallback component
