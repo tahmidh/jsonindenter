@@ -39,7 +39,3 @@
 *   **Plan first:** Before suggesting a large code change, propose an execution plan as a list of steps.
 *   **Context:** When referencing code, include the filename and line numbers.
 *   **Tests:** Add or update tests for any code changes, following the Arrange-Act-Assert pattern.
-
-DO NOT REINVENT THE WHEEL: Prefer using existing libraries and components over creating new ones from scratch, unless there is a compelling reason to do so.
-
-PUT ALL .md in .github FOLDER: All markdown documentation files should be stored in the .github directory at the root of the project.
